@@ -7,10 +7,8 @@ Assignment 07
 [My Github Repository](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07)
 
 <br/>
-<br/>		
-
+<br/>	
 <h3 align = "center">Exception Handling & Pickling</h3>
-
 <br/>
 <br/>
 
