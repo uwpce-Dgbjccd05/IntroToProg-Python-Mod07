@@ -32,10 +32,10 @@ Figure 6. An example of a function saving data to a file.
 How to Exit the Program
 In  this step of the script, the code has already been provided in template.
 Below shows the script running in the command shell (Figure 7).
-### Exception Handling
+#### Exception Handling
 
 
-### Pickling
+#### Pickling
  
 Figure 7.  A screenshot of the script running in the command shell.
 
