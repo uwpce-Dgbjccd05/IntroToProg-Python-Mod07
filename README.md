@@ -1,10 +1,12 @@
 ## Welcome to My GitHub Page
 
-Glenn B. Dacones \n
-May 24, 2022 \n
-Foundation of Programming: Python \n
-Assignment 06 \n
-Github Repository \n
+Glenn B. Dacones
+May 24, 2022
+Foundation of Programming: Python
+Assignment 07
+[My Github Repository](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07)
+
+
 					
 To Do List – Function Script
 Introduction
