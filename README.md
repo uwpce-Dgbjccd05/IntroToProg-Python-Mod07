@@ -9,7 +9,7 @@ Assignment 07
 					
 ### To Do List – Function Script
 
-Introduction
+#### Introduction
 This paper is a continuation of the to do list script from Assignment 05. In this assignment, using the template provided, I will create and execute a script using functions that are already pre-defined in the template. The codes that I have added are the text following the “TODO: Add Code Here!” comment in the template.
 How to Create a Menu of Options
 In this step of the script, the codes have already been provided in the template. The codes are  consisting of two separate functions, one function is to display the menu of options, and the other is to request for user’s choice.
