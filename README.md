@@ -6,9 +6,9 @@ Foundation of Programming: Python
 Assignment 07  
 [My Github Repository](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07)
 
-					
-### To Do List – Function Script
-
+<p align = "center">					
+### Exception Handling & Pickling
+</p>
 #### Introduction
 This paper is a continuation of the to do list script from Assignment 05. In this assignment, using the template provided, I will create and execute a script using functions that are already pre-defined in the template. The codes that I have added are the text following the “TODO: Add Code Here!” comment in the template.
 How to Create a Menu of Options
