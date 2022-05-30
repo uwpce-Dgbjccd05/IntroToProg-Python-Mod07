@@ -1,7 +1,7 @@
 <h1 align = "center"> Welcome to My GitHub Page</h1>
 
 Glenn B. Dacones  
-May 24, 2022  
+May 31, 2022  
 Foundation of Programming: Python  
 Assignment 07  
 [My Github Repository](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07)
