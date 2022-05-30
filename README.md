@@ -27,14 +27,19 @@ If you have some suspicious code that may raise an exception, you can defend you
 
 Below is a sample of exception handling in my script (Figure 2).  
 
-try:
-    Processor.read_data_from_file( file_name=file_name_str, list_of_rows=table_lst)  # read file data
-except Exception as e:
-    print("\n",e.__doc__, "\n")
-    print(e.__str__())
-    print()
+try:  
 
-<img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling.png">  
+    Processor.read_data_from_file( file_name=file_name_str, list_of_rows=table_lst)  # read file data
+except Exception as e:  
+
+    print("\n",e.__doc__, "\n")  
+    
+    print(e.__str__())  
+    
+    print()  
+    
+
+<img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling_output.png">  
 ***Figure 2. An example of exception handling code (top) and output (bottom).
 
 #### Pickling
