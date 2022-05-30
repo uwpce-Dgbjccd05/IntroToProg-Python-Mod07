@@ -27,12 +27,11 @@ If you have some suspicious code that may raise an exception, you can defend you
 
 Below is a sample of exception handling in my script (Figure 2).
 <br/>
-
+<br/>
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png"> 
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling_output.png">  
-<br/>
 
-***Figure 2. An example of exception handling code (top) and output (bottom).
+***Figure 2. An example of exception handling code (top) and output (bottom).***
 
 #### Pickling
 Python pickle module is used for serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling or serialization or flattening or marshalling. We can converts the byte stream (generated through pickling) back into python objects by a process called as unpickling. (External Reference: [https://www.tutorialspoint.com/python-pickling](https://www.tutorialspoint.com/python-pickling)). 
