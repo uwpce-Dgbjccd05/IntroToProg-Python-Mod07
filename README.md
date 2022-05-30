@@ -22,5 +22,5 @@ When a Python script raises an exception, it must either handle the exception im
 If you have some suspicious code that may raise an exception, you can defend your program by placing the suspicious code in a try: block. After the try: block, include an except: statement, followed by a block of code which handles the problem as elegantly as possible. I chose this site because it has a list of standard exceptions. (External Reference: https://www.tutorialspoint.com/python/python_exceptions.htm).
 
 #### Pickling
- 
+Python pickle module is used for serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling or serialization or flattening or marshalling. We can converts the byte stream (generated through pickling) back into python objects by a process called as unpickling. (External Reference: https://www.tutorialspoint.com/python-pickling). 
 
