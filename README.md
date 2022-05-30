@@ -12,7 +12,7 @@ Assignment 07
 #### Introduction  
 This paper is about the exception handling & pickling. I will use the knowledge I gather from the internet and incorporate them into my python script.
 
-#### What is Exception Handling?
+#### Exception Handling
 ##### What is Exception?
 An exception is an event,  which  an event, which occurs during the execution of a program that disrupts the normal flow of the program's instructions. In general, when a Python script encounters a situation that it cannot cope with, it raises an exception. An exception is a Python object that represents an error.
 
