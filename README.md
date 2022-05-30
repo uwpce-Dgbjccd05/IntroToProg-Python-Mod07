@@ -1,15 +1,13 @@
-<h2 align = "center"> Welcome to My GitHub Page</h2>
+<h1 align = "center"> Welcome to My GitHub Page</h1>
 
 Glenn B. Dacones  
 May 24, 2022  
 Foundation of Programming: Python  
 Assignment 07  
 [My Github Repository](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07)
-
 <br/>
 <h3 align = "center">Exception Handling & Pickling</h3>
 <br/>
-
 #### Introduction
 This paper is about the exception handling & pickling. I will use the knowledge I gathered from the internet and incorporate them into my python script.
 
