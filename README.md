@@ -25,11 +25,12 @@ If you have some suspicious code that may raise an exception, you can defend you
 
 ***Figure 1. An example of exception handling.***
 
-Below is a sample of exception handling in my script (Figure 2).  
+Below is a sample of exception handling in my script (Figure 2).
+<br/>
 
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png"> 
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling_output.png">  
-
+<br/>
 
 ***Figure 2. An example of exception handling code (top) and output (bottom).
 
