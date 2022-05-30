@@ -9,7 +9,7 @@ Assignment 07
 <h3 align = "center">Exception Handling & Pickling</h3>
 <br/>
 <br/>
-#### Introduction 
+#### Introduction  
 This paper is about the exception handling & pickling. I will use the knowledge I gather from the internet and incorporate them into my python script.
 
 #### What is Exception Handling?
