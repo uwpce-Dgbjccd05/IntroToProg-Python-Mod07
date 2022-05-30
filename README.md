@@ -25,7 +25,8 @@ If you have some suspicious code that may raise an exception, you can defend you
 
 ***Figure 1. An example of exception handling.***
 
-Below is a sample of exception handling in my script (Figure 2).
+Below is a sample of exception handling in my script (Figure 2).  
+
 try:
     Processor.read_data_from_file( file_name=file_name_str, list_of_rows=table_lst)  # read file data
 except Exception as e:
