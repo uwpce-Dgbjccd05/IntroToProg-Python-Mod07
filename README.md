@@ -28,6 +28,8 @@ If you have some suspicious code that may raise an exception, you can defend you
 Below is a sample of exception handling in my script (Figure 2).
 <br/>
 <br/>
+![This is may image](../../../github/docs/blob/main/assets/images/try_except_code.png?raw=true)
+![This is may image](../../../github/docs/blob/main/assets/images/try_except_code.png)
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png"> 
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling_output.png">  
 
