@@ -21,7 +21,7 @@ When a Python script raises an exception, it must either handle the exception im
 ##### Handling an Exception
 If you have some suspicious code that may raise an exception, you can defend your program by placing the suspicious code in a try: block. After the try: block, include an except: statement, followed by a block of code which handles the problem as elegantly as possible. I chose this site because it has a list of standard exceptions. (External Reference: [https://www.tutorialspoint.com/python/python_exceptions.htm](https://www.tutorialspoint.com/python/python_exceptions.htm)). (Figure 1).
 
-![This is my image](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except.png?raw=true "This is my image")
+![Exception Handling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except.png?raw=true "Exception Handling")
 
 ***Figure 1. An example of exception handling.***
 
