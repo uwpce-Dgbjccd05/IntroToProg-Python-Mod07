@@ -21,9 +21,7 @@ When a Python script raises an exception, it must either handle the exception im
 ##### Handling an Exception
 If you have some suspicious code that may raise an exception, you can defend your program by placing the suspicious code in a try: block. After the try: block, include an except: statement, followed by a block of code which handles the problem as elegantly as possible. I chose this site because it has a list of standard exceptions. (External Reference: [https://www.tutorialspoint.com/python/python_exceptions.htm](https://www.tutorialspoint.com/python/python_exceptions.htm)). (Figure 1).
 
-<picture>
-  <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except.png"
-</picture>
+![This is my image](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png?raw=true"This is my image")
 
 ***Figure 1. An example of exception handling.***
 
@@ -31,7 +29,7 @@ Below is a sample of exception handling in my script (Figure 2).
 <br/>
 <br/>
 ![This is may image](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png)
-![This is mayimage](../../../github/docs/blob/main/assets/images/try_except_code.png)
+![This is my image](../../../github/docs/blob/main/assets/images/try_except_code.png)
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/try_except_code.png"> 
 <img src="https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/exception_handling_output.png">  
 
