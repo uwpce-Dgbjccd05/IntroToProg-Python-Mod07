@@ -1,4 +1,4 @@
-## Welcome to My GitHub Page
+<h2 align = "center"> Welcome to My GitHub Page</h2>
 
 Glenn B. Dacones  
 May 24, 2022  
