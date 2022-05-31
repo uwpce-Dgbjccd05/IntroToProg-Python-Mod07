@@ -34,10 +34,12 @@ Below is a sample of exception handling in my script (Figure 2).
 ***Figure 2. An example of exception handling code (top) and output (bottom).***
 
 #### Pickling
-Python pickle module is used for serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling or serialization or flattening or marshalling. We can converts the byte stream (generated through pickling) back into python objects by a process called as unpickling. (External Reference: [https://www.tutorialspoint.com/python-pickling](https://www.tutorialspoint.com/python-pickling)). 
+Python pickle module is used for serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling or serialization or flattening or marshalling. We can converts the byte stream (generated through pickling) back into python objects by a process called as unpickling. (External Reference: [https://www.tutorialspoint.com/python-pickling](https://www.tutorialspoint.com/python-pickling)). Below shows an example of pickling (Figure 3).
 
 ![Pickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/pickling.png?raw=true "Pickling")  
-***Figure 3. An example of pickling.***
+***Figure 3. An example of pickling.***  
+
+Below shows an example of unpickling (Figure 4.)  
 
 ![Unpickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/unpickling.png?raw=true "Unickling")  
 ***Figure 4. An example of unpickling.***  
