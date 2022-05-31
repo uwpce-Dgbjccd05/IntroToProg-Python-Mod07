@@ -48,12 +48,12 @@ Below shows an example of unpickling (Figure 4.)
 Below shows the script running in PyCharm (Figure 5). 
 
 ![PyCharm](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/PyCharm_Script.png?raw=true "PyCharm")  
-***Figure 5. A screenshot of script running in PyCharm.  
+***Figure 5. A screenshot of script running in PyCharm.***  
 
 Below shows the script running in command shell (Figure 6).  
 
 ![Command](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/CommandShell_Script.png?raw=true "Command")  
-***Figure 6. A screenshot of script running in command shell.  
+***Figure 6. A screenshot of script running in command shell.***  
 
 #### Summary
 In this assignment, I found several internet sources for exception handling and pickling. Most of the websites provided examples and usage. I chose the website tutorialspoint.com because it also provided a list of standard exceptions.
