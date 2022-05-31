@@ -39,7 +39,7 @@ Python pickle module is used for serializing and de-serializing python object st
 ![Pickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/pickling.png)  
 ***Figure 3. An example of pickling.***
 
-![Unpickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/unpickling.png?raw=true "Unpickling")  
+![Unpickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/unpickling.png)  
 ***Figure 4. An example of unpickling.***  
 
 #### Summary
