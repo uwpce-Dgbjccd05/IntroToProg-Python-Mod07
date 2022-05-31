@@ -36,5 +36,11 @@ Below is a sample of exception handling in my script (Figure 2).
 #### Pickling
 Python pickle module is used for serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling or serialization or flattening or marshalling. We can converts the byte stream (generated through pickling) back into python objects by a process called as unpickling. (External Reference: [https://www.tutorialspoint.com/python-pickling](https://www.tutorialspoint.com/python-pickling)). 
 
+![Pickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/pickling.png)  
+***Figure 3. An example of pickling.***
+
+![Unpickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/unpickling.png?raw=true "Unpickling")  
+***Figure 4. An exmample of unpickling.***  
+
 #### Summary
 In this assignment, I found several internet sources for exception handling and pickling. Most of the websites provided examples and usage. I chose the website tutorialspoint.com because it also provided a list of standard exceptions.
