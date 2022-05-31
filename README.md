@@ -40,7 +40,7 @@ Python pickle module is used for serializing and de-serializing python object st
 ***Figure 3. An example of pickling.***
 
 ![Unpickling](https://github.com/uwpce-Dgbjccd05/IntroToProg-Python-Mod07/blob/main/docs/images/unpickling.png?raw=true "Unpickling")  
-***Figure 4. An exmample of unpickling.***  
+***Figure 4. An example of unpickling.***  
 
 #### Summary
 In this assignment, I found several internet sources for exception handling and pickling. Most of the websites provided examples and usage. I chose the website tutorialspoint.com because it also provided a list of standard exceptions.
