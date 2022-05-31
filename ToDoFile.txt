@@ -1,0 +1,3 @@
+Mow,High
+Eat,Low
+Run,Low
